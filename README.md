@@ -1,6 +1,6 @@
 
 
-# 🏢 SRC — Sri Radhey Consultancy
+# 🏢 Consultancy Website
 
 <div align="center">
 
